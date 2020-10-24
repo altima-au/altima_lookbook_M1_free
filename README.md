@@ -5,5 +5,11 @@ Altima Lookbook Magento 1 extension provides online merchants with an ability to
 
 Available on https://shop.altima.net.au/altima-lookbook-free.html
 
-### The extension is developed by Altima Interactive - Magento and Worpdress extension developer: https://shop.altima.net.au/
+### Developer and Lookbook Professional
+
+The extension is developed by Altima Interactive - Magento and Worpdress extension developer: https://shop.altima.net.au/
 Visit our store to purchase professional version of this extension for Magento 1 and Magento 2 with extended functionality
+
+## Licence
+
+Altima Lookbook free is distributed under OGL licence
