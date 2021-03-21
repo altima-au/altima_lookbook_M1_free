@@ -1,0 +1,16 @@
+{
+    "name": "altima/lookbook_free_m1",
+    "type": "magento1-module",
+    "description": "Advanced Lookbook Slider free version for Magento 1",
+    "keywords": ["Magento","lookbook"],
+    "homepage": "https://shop.altima.net.au",
+    "license": "OSL",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
